@@ -1,8 +1,26 @@
+.body-color{
+    background-color: rgb(84, 100, 116);
+}
+
+
 .bg-agencia{
-    background-color: rgb(167, 232, 243);
+    background-color: rgb(60, 149, 233);
 }
 
 .login{
     text-decoration: none;
     color: black;
+}
+
+.carou{
+    margin-top: 50px;
+    height: 300px;
+    width: 400px;
+}
+
+.center{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
 }

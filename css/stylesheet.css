@@ -36,3 +36,7 @@
 .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
     color: rgb(55, 55, 255) !important;
 }
+
+path{
+    fill: white;
+}

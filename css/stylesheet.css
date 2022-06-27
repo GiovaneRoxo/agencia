@@ -9,6 +9,15 @@
     }
   }
 
+@media screen and (max-width: 480px){
+    div.carou {
+
+        margin-top: 50px;
+        height: 200px;
+        width:  300px;
+      
+    }
+  }
 
 
 .body-color{

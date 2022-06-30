@@ -19,7 +19,6 @@
     }
   }
 
-
 .body-color{
     background-color: #F7F7FF;
 }
@@ -61,4 +60,9 @@
 
 path{
     fill: white;
+}
+
+section.le{
+    margin-left: 0px !important;
+    margin-right: 0px !important;
 }

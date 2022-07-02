@@ -67,3 +67,8 @@ section.le{
     margin-right: 0px !important;
 }
 
+.img-g{
+    background-image: url('https://getbootstrap.com/docs/5.2/examples/features/unsplash-photo-3.jpg');
+    background-size: cover;
+    background-position: center;
+}

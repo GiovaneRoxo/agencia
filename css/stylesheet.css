@@ -73,6 +73,7 @@ section.le{
 .img-g{
     background-size: cover;
     background-position: center;
+    background-position-x: right;
 }
 
 .txt-g{

@@ -23,6 +23,9 @@
     background-color: #F7F7FF;
 }
 
+.bg-agencia2{
+    background-color: #6279B8;
+}
 
 .bg-agencia{
     background-color: #1B1F3B;
@@ -75,5 +78,4 @@ section.le{
 .txt-g{
      color: rgb(255, 255, 255);
     -webkit-text-stroke: 1px rgb(0, 0, 0);
-     text-stroke: 1px rgb(0, 0, 0);
 }

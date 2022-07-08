@@ -80,3 +80,7 @@ section.le{
      color: rgb(255, 255, 255);
     -webkit-text-stroke: 1px rgb(0, 0, 0);
 }
+
+.contatoForm{
+    width: 450px;
+}

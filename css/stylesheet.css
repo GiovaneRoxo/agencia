@@ -1,4 +1,5 @@
 
+/*Breakpoints*/
 @media screen and (max-width: 950px){
     div.carou {
 
@@ -22,6 +23,15 @@
     }
   }
 
+/*form tamanho*/
+
+.contatoForm{
+    width: 450px;
+}
+
+
+/* class colors*/
+
 .body-color{
     background-color: #F7F7FF;
 }
@@ -34,10 +44,15 @@
     background-color: #1B1F3B;
 }
 
+
+/*linha a baixo do texto de login tirada*/
+
 .login{
     text-decoration: none;
     color: #F7F7FF;
 }
+
+/* class carrossel*/
 
 .carou{
     margin-top: 50px;
@@ -54,15 +69,20 @@
     border-radius: 20px;
 }
 
+/*centraliza tudo numa coluna*/
+
 .center{
     display: flex;
     flex-direction: column;
     align-items: center;
 }
 
+/*hover navbar*/
+
 .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
     color: rgb(55, 55, 255) !important;
 }
+
 
 path{
     fill: white;
@@ -79,11 +99,9 @@ section.le{
     background-position-x: right;
 }
 
+/* texto branco com contorno preto*/
+
 .txt-g{
      color: rgb(255, 255, 255);
     -webkit-text-stroke: 1px rgb(0, 0, 0);
-}
-
-.contatoForm{
-    width: 450px;
 }
